@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ashutosh Singh
 
-[LinkedIn](https://www.linkedin.com/in/ashutoshysingh) [Twitter](https://twitter.com/random_techie)
+[LinkedIn](https://www.linkedin.com/in/ashutoshysingh) [Twitter](https://twitter.com/random_techie) [Stackoverflow](https://stackoverflow.com/users/2450556/ashutosh)
 
 I am a software developer since 2007 and have worked full-stack. I specialize in .NET, Azure and React. 
 
