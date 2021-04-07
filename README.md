@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Ashutosh Singh
+
+[LinkedIn](https://www.linkedin.com/in/ashutoshysingh) [Twitter](https://twitter.com/random_techie)
+
+I am a software developer since 2007 and have worked full-stack. I specialize in .NET, Azure and React. 
+
+I enjoy learning new things, programming, building innovative solutions. I spent most of my time working on the web.
+
+- 🔭 I’m currently working on improving my DS skills to get a new job
+- 🌱 I’m currently learning Node
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about Perf, React, .NET, Azure, Docker, Web
+- 📫 How to reach me: DM on Twitter and LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like cooking and WFH has allowed me to enjoy this
 
 <!--
 **gladiatorAsh/gladiatorAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
