@@ -10,7 +10,7 @@ I enjoy learning new things, programming, building innovative solutions. I spent
 - 🌱 I’m currently learning Node
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Perf, React, .NET, Azure, Docker, Web
-- 📫 How to reach me: DM on Twitter and LinkedIn
+- 📫 How to reach me: Call me on my phone or message on LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cooking and WFH has allowed me to enjoy this
 
